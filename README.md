@@ -102,28 +102,19 @@ I improve my skills daily by building real-world projects, practicing DSA, and l
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.icons8.com/?size=48&id=SDVmtZ6VBGXt&format=png" alt="express" width="40" height="40"/> 
 </a>
+
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a>
 
-  <!-- Node.js (white) -->
+
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="nodejs" width="40" height="40"/>
 </a>
-
-
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png](https://img.icons8.com/?size=48&id=PndQWK6M1Hjo&format=png)" />
-</a>
-
-
-
-
-
 
 </p>
 
