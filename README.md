@@ -110,22 +110,7 @@ I improve my skills daily by building real-world projects, practicing DSA, and l
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a>
 
-<p align="center">
-  <!-- Zustand (white version from Icons8) -->
-  <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/zustand.png" alt="zustand" width="40" height="40"/>
-  </a>
-  
-  <!-- Express.js (white version from Icons8) -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/express-js.png" alt="express" width="40" height="40"/>
-  </a>
-  
-  <!-- Bootstrap (white version from Icons8) -->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/bootstrap.png" alt="bootstrap" width="40" height="40"/>
-  </a>
-</p>
+
 
 </p>
 
