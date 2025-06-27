@@ -63,9 +63,11 @@ I improve my skills daily by building real-world projects, practicing DSA, and l
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
+ <a href="#" target="_blank" rel="noreferrer"> 
+  <img src="https://img.icons8.com/?size=64&id=ZMc42tPbG32H&format=png" alt="mentor" width="40" height="40"/> 
+  Mentor: Rahul Sah
+</a>
+
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
@@ -103,8 +105,9 @@ I improve my skills daily by building real-world projects, practicing DSA, and l
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/?size=48&id=SDVmtZ6VBGXt&format=png" alt="express" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png" alt="express" width="40" height="40"/> 
 </a>
+
 
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
