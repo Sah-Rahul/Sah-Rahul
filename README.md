@@ -57,7 +57,7 @@ I improve my skills daily by building real-world projects, practicing DSA, and l
 
 ---
 
-## 💾 Tech Stack 
+## 💾 Tech Stack and Tools 
 
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -107,6 +107,10 @@ I improve my skills daily by building real-world projects, practicing DSA, and l
   <img src="https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png" alt="express" width="40" height="40"/> 
 </a>
 
+<a href="#" target="_blank" rel="noreferrer" style="display: flex; align-items: center; gap: 8px; text-decoration: none; font-weight: bold; font-size: 16px; color: black;"> 
+  <img src="https://img.icons8.com/?size=80&id=EPbEfEa7o8CB&format=png" alt="mentor" width="40" height="40"/> 
+ 
+</a>
 
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
