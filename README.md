@@ -110,19 +110,19 @@ I improve my skills daily by building real-world projects, practicing DSA, and l
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a>
 
-  <!-- Zustand (white) -->
-  <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/zustand.png" alt="zustand" width="40" height="40"/>
-  </a>
-  
- 
-  
- 
-
   <!-- Node.js (white) -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="[https://img.icons8.com/ios-filled/50/ffffff/nodejs.png](https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png)" alt="nodejs" width="40" height="40"/>
-  </a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="nodejs" width="40" height="40"/>
+</a>
+
+
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png](https://img.icons8.com/?size=48&id=PndQWK6M1Hjo&format=png)" />
+</a>
+
+
+
+
 
 
 </p>
