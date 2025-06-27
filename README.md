@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hi+I'm+Rahul+Sah;Fullstack+Web+Developer;DevOps+Learner;DSA+Practitioner" />
 </p>
 
+
 <p align="center">
 I am currently learning <strong>Fullstack Web Development (MERN Stack)</strong> and <strong>DevOps</strong>.<br>
 I improve my skills daily by building real-world projects, practicing DSA, and learning cloud deployments.
@@ -104,6 +105,11 @@ I improve my skills daily by building real-world projects, practicing DSA, and l
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
+
 
 </p>
 
