@@ -115,19 +115,13 @@ I improve my skills daily by building real-world projects, practicing DSA, and l
     <img src="https://img.icons8.com/ios-filled/50/ffffff/zustand.png" alt="zustand" width="40" height="40"/>
   </a>
   
-  <!-- Express.js (white) -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/express-js.png" alt="express" width="40" height="40"/>
-  </a>
+ 
   
-  <!-- Bootstrap (white) -->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/bootstrap.png" alt="bootstrap" width="40" height="40"/>
-  </a>
+ 
 
   <!-- Node.js (white) -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/nodejs.png" alt="nodejs" width="40" height="40"/>
+    <img src="[https://img.icons8.com/ios-filled/50/ffffff/nodejs.png](https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png)" alt="nodejs" width="40" height="40"/>
   </a>
 
 
