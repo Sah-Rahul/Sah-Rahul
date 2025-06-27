@@ -65,7 +65,6 @@ I improve my skills daily by building real-world projects, practicing DSA, and l
   </a> 
  <a href="#" target="_blank" rel="noreferrer"> 
   <img src="https://img.icons8.com/?size=64&id=ZMc42tPbG32H&format=png" alt="mentor" width="40" height="40"/> 
-  Mentor: Rahul Sah
 </a>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
