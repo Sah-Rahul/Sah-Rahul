@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Namaste+🙏;Hi+I'm+Rahul+Sah;Fullstack+Web+Developer;DevOps+Developer;DSA+Practitioner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Namaste+🙏;Hi+I'm+Rahul+Sah;Fullstack+Web+Developer;DevOps+Devloper;DSA+Practitioner" />
 </p>
 
 <p align="center">
@@ -62,21 +62,13 @@ I improve my skills daily by building real-world projects, practicing DSA, and l
 
 ## 💾 Tech Stack and Tools
 
-# 🧠 Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react)](https://skillicons.dev)
+<Br>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,nextjs,git,expressjs,nodejs)](https://skillicons.dev)
+<Br>
+[![My Skills](https://skillicons.dev/icons?i=aws,firebase,vscode,postman,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript)](https://skillicons.dev)
-
-# ⚙️ Frameworks & Libraries
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,expressjs,vite,tailwind)](https://skillicons.dev)
-
-# 🛢️ Databases
-
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb)](https://skillicons.dev)
-
-# 🛠️ Tools
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,figma,aws)](https://skillicons.dev)
 
 # 📬 Connect with Me
 
