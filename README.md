@@ -66,7 +66,7 @@ I improve my skills daily by building real-world projects, practicing DSA, and l
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript)](https://skillicons.dev)
 
-# ⚙️ Frameworks 
+# ⚙️ Frameworks & Libraries
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,expressjs,vite,tailwind)](https://skillicons.dev)
 
