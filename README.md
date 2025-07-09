@@ -62,9 +62,9 @@ I improve my skills daily by building real-world projects, practicing DSA, and l
 
 ## 💾 Tech Stack and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,typescript,react)](https://skillicons.dev)
 <Br>
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nextjs,git,expressjs,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,docker,nextjs,git,expressjs,nodejs)](https://skillicons.dev)
 <Br>
 [![My Skills](https://skillicons.dev/icons?i=aws,firebase,vscode,postman,github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
