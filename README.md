@@ -69,12 +69,6 @@ I improve my skills daily by building real-world projects, practicing DSA, and l
 [![My Skills](https://skillicons.dev/icons?i=aws,firebase,vscode,postman,github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
-
-# 📬 Connect with Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rahul-sah-6ba0a5346/)
-[<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" width="40"/>](https://hashnode.com/history)
-
 ---
 
 ✨ More updates coming soon…  
